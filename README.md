@@ -4,7 +4,7 @@ Ideas:
 
 - Create a decorator to simplify creation of ctypes structures.
   Something like `structure` decorator method from https://github.com/idlesign/ctyped
-  but not attached to a any class. Also, get some ideas from https://github.com/dfint/peclasses.
+  but not attached to any class. Also, get some ideas from https://github.com/dfint/peclasses.
 - ...
 
 
