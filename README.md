@@ -23,3 +23,9 @@ class POINT(Structure):
     x: int = field(type=c_int)
     y: int = field(type=c_int)
 ```
+instead of
+```python
+class POINT(Structure):
+    _fields_ = [("x", c_int),
+                ("y", c_int)]
+```
