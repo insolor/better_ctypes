@@ -1,0 +1,1 @@
+from better_ctypes.decorator import typed_structure
